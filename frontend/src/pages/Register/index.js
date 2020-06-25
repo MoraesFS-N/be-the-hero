@@ -27,7 +27,7 @@ export default function Register(){
 
                     <div className="input-group">
                         <input placeholder="Cidade" />
-                        <input placeholder="UF" style={{width: 80 }} />
+                        <input placeholder="UF" style={{ width: 80 }} />
                     </div>
 
                     <button className="button" type="submit">Cadastrar</button>
